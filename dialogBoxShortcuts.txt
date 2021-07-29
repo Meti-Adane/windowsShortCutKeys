@@ -1,0 +1,11 @@
+F1 [Display Help 
+F4 [Display the items in the active list 
+CTRL + TAB [Move forward through tabs 
+CTRL + SHIFT + TAB [Move back through tabs 
+CTRL + (NUMBER 1-9) [Move to nth tab 
+TAB [Move forward through options 
+SHIFT + TAB [Move back through options 
+ALT + Underlined Letter in menus and dialog box options [Perform the command (or select the option) that goes with that letter 
+SPACEBAR [Select or clear the check box if the active option is a check box 
+BACKSPACE [Open a folder one level up if a folder is selected in the Save As or Open dialog box 
+ARROW keys [Select a button if the active option is a group of option buttons 
